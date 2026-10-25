@@ -1,0 +1,12 @@
+Hier die PDFs mit genau diesen Dateinamen ablegen, dann funktionieren die Download-Buttons auf der Website:
+
+automatic-lab-pitch-deck-de.pdf
+automatic-lab-pitch-deck-en.pdf
+automatic-lab-one-pager-de.pdf
+automatic-lab-one-pager-en.pdf
+automatic-lab-businessplan-de.pdf
+automatic-lab-businessplan-en.pdf
+automatic-lab-finanzplan-de.pdf
+automatic-lab-finanzplan-en.pdf
+
+Beim Hochladen zu IONOS den Ordner "downloads" neben index.html mit hochladen.
